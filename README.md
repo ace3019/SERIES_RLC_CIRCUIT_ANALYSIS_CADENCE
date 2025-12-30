@@ -152,4 +152,4 @@ This project successfully demonstrated the design, simulation, and analysis of a
 * **Spectre® Simulation Platform**
 * **Virtuoso® Visualization & Analysis XL**
 
-### Author : Shashvat Mishra, BTech ,Punjab Engineering College
+### Author : Shashvat Mishra, BTech VLSI,Punjab Engineering College
